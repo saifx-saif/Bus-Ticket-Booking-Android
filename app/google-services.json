@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1016793430275",
+    "project_id": "busfirstdemo",
+    "storage_bucket": "busfirstdemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016793430275:android:ba6d4ca6ea4292a4a91136",
+        "android_client_info": {
+          "package_name": "com.example.busfirstdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016793430275-k1ih41o55aft9slhhmmbdh36ejg6bt7q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzREFp31_edJtoF4iwTdCdxDfGFF8dxTQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016793430275-k1ih41o55aft9slhhmmbdh36ejg6bt7q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
